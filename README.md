@@ -16,6 +16,8 @@ npm install csv-writer
 
 How to run:
 
+make folder "gplay" in the base directory(mkdir gplay)
+
 node gplay_scrape.js (country's code)
 
 eg: node gplay_scrape.js us
@@ -33,6 +35,8 @@ npm install app-store-scraper
 npm install csv-writer(if not installed for google-play-store already)
 
 How to run:
+
+make folder "applestore" in the base directory(mkdir applestore)
 
 node apple_scrape.js (country's code)
 
