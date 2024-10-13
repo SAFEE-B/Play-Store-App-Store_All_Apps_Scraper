@@ -25,6 +25,7 @@ eg: node gplay_scrape.js us
 
 
 ****Apple-Store:****
+
 It is based on the app-store-scraper api.
 
 Data is saved in csv format with 10000 apps/file
