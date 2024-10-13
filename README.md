@@ -1,4 +1,4 @@
-# google-play-scraper-All_Apps_Retrieval
+# Google-Play/Apple Store All Apps Scraper
 
 
 **This is the Scraper that returns all the availabe apps in a country. **
