@@ -4,17 +4,18 @@
 **This is the Scraper that returns all the availabe apps in a country. **
 
 **Goole-Play:**
+
 It is based on the google-play-scraper api.
 
 Data is saved in csv format with 10000 apps/file
 
-Installing Libraries(in the project folder):
+**Installing Libraries(in the project folder):**
 
 npm install google-play-scraper
 
 npm install csv-writer
 
-How to run:
+**How to run:**
 
 make folder "gplay" in the base directory(mkdir gplay)
 
@@ -23,18 +24,18 @@ node gplay_scrape.js (country's code)
 eg: node gplay_scrape.js us
 
 
-**Apple-Store:**
+****Apple-Store:****
 It is based on the app-store-scraper api.
 
 Data is saved in csv format with 10000 apps/file
 
-Installing Libraries(in the project folder):
+**Installing Libraries(in the project folder):**
 
 npm install app-store-scraper
 
 npm install csv-writer(if not installed for google-play-store already)
 
-How to run:
+**How to run:**
 
 make folder "applestore" in the base directory(mkdir applestore)
 
